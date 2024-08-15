@@ -14,8 +14,12 @@ VS Code
 
 ## Theory
 If Statement: Executes a block of code if a specified condition evaluates to true.
+
 Else Statement: Executes an alternative block of code if the condition in the if statement is false.
+
 Else if Statement: Tests additional conditions if previous conditions are false.
+
 Switch Statement: Executes different blocks of code based on the value of a given expression. It allows for multiple execution paths and is useful when handling various cases based on a variable's value. The switch expression must be of type int or char.
+
 ## Example Usage of switch
 The switch statement provides a way to handle multiple possible values for a variable. Each case represents a potential value, and the corresponding block of code executes if the switch expression matches that case value.
