@@ -224,7 +224,17 @@ cout<< "Day is Sunday";
 }
 ```
 
-## Output:
+## Outputs:
+1. ![Screenshot 2024-08-16 013247](https://github.com/user-attachments/assets/686fa7ec-0aa2-45c9-8fc1-e7bf6fec7b44)
+2. ![Screenshot 2024-08-16 013318](https://github.com/user-attachments/assets/9651628d-6aa8-4d88-8ff3-b253a5d3dc6d)
+3. ![Screenshot 2024-08-16 013351](https://github.com/user-attachments/assets/4ff093f6-2a24-4348-af4e-06f6a69f9491)
+4. ![Screenshot 2024-08-16 013430](https://github.com/user-attachments/assets/ebf3ebbb-1524-4a86-a911-40fc69673710)
+5. ![Screenshot 2024-08-16 013508](https://github.com/user-attachments/assets/0a362e22-baff-4441-aab0-1880f0b96cd9)
+
+## Conclusion:
+These programs cover fundamental concepts in C++ such as conditionals and control flow using if, else, else if, and switch statements. By working through these examples, you’ll gain a deeper understanding of how to implement these structures in real-world programming scenarios.
+
+
 
 
 
